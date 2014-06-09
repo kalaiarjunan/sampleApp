@@ -1,5 +1,5 @@
 class HomeController < ApplicationController
-  #testing for github..
+  #testing for github..tst
   def login
   end
 end
